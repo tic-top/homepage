@@ -10,3 +10,4 @@ redirect_from:
 
 About me
 ======
+I'm a Senior Student at Umich.
