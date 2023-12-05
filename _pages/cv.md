@@ -26,14 +26,9 @@ Work experience
   * Duties included: Test the new tokenizer on PsyQA dataset. Test different LLMs on our proposed benchmark.
   * Supervisor: Rada Michaelle
   
-Skills
+Programming Language
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C, C++, Python, Elm, SQL, Latex, MATLAB
 
 Publications
 ======
