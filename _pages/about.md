@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,4 +10,4 @@ redirect_from:
 
 About me
 ======
-I'm a Senior Student at Umich.
+I am an undergraduate student participating in a dual bachelor degree program created by University of Michigan and Shanghai Jiao Tong University.I study computer science in  Umich while studying electrical and computer engineering in SJTU.
