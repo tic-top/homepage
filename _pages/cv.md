@@ -25,6 +25,12 @@ Work experience
   * University of Michigan
   * Duties included: Test the new tokenizer on PsyQA dataset. Test different LLMs on our proposed benchmark.
   * Supervisor: Rada Michaelle
+
+* Fall 2023: Research Assistant
+  * University of Michigan
+  * Duties included: Build a model to predict the SQL execution time on different lakehouse setting
+  * Supervisor: Lin Ma
+
   
 Programming Language
 ======
