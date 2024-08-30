@@ -50,6 +50,6 @@ $x_{t-1} = \frac{1}{\alpha_t}(x_t - \beta_t\varepsilon_θ(x_t, t)) + \sigma_t z,
 
 We usuallly set $σ_t = \beta_t$, which means that dstroy and reconstruction have the same varience.
 
-![alt text](image.png)
+![alt text](../images/image.png)
 
 https://huggingface.co/blog/annotated-diffusion
